@@ -23,5 +23,6 @@
 hs_err_pid*
 
 **.iml
-/.idea/**/**.*
-/java-ssl-test/target/*
+/.idea/**
+
+/java-ssl-test/target/**
