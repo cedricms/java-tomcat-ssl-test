@@ -80,7 +80,7 @@
                    SSLEnabled="true"
                    SSLCertificateFile="${catalina.base}/conf/ssl.crt"
                    SSLCertificateKeyFile="${catalina.base}/conf/ssl.key" />
-        
+
         <!-- A "Connector" using the shared thread pool-->
         <!--
         <Connector server="Apache" secure="true" executor="tomcatThreadPool"
